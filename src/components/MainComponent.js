@@ -11,8 +11,6 @@ class MainComponent extends React.Component{
         return (
             <div>
                 <NavBar/>
-                <Header/>
-                <Footer/>
             </div>
         )
     }

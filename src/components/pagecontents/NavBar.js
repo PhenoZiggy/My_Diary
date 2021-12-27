@@ -20,8 +20,8 @@ class NavBar extends React.Component {
               <Toolbar>
                 <Button color="inherit">Parts</Button>
                 <Button color="inherit">News</Button>
-                <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-                  AUTO SERVICE
+                <Typography variant="h4" component="div" sx={{ flexGrow: 1 }}>
+                  My Diary
                 </Typography>
             
                 <Button color="inherit">Login</Button>
